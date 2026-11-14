@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Peter's Morning Briefing</title>
+    <link>https://pdarlingcph00.github.io/morning-audio-feed/</link>
+    <language>en-us</language>
+    <description>Private daily morning news briefing, auto-generated.</description>
+    <itunes:author>Peter Darling</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://pdarlingcph00.github.io/morning-audio-feed/cover.jpg"/>
+    <item>
+      <title>Morning Briefing - 2026-11-14</title>
+      <description>Auto-generated morning briefing for 2026-11-14.</description>
+      <pubDate>Sat, 14 Nov 2026 08:24:04 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-11-14</guid>
+      <enclosure url="https://pdarlingcph00.github.io/morning-audio-feed/episode-2026-11-14.mp3" length="3046608" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
